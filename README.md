@@ -17,7 +17,7 @@ NIS2 · ISO 27001 · IEC 62443 · EBIOS RM · ANSSI · Architectures SOC · OT/I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/johannlebel)
 [![CCDIGITAL](https://img.shields.io/badge/CCDIGITAL-01696f?style=flat-square&logoColor=white)](https://ccdigital.fr)
-[![Email](https://img.shields.io/badge/contact-contact@johann-lebel.fr-01696f?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@johann-lebel.fr)
+[![Email](https://img.shields.io/badge/contact-johann@ccdigital.fr-01696f?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@johann-lebel.fr)
 
 </div>
 
