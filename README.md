@@ -12,7 +12,7 @@
 
 **`// Security is not a product, it's a process.`**
 
-Ingénieur cybersécurité · Fondateur **[CCDIGITAL](https://ccdigital.fr)** · Lyon, France  
+Expert système d'information et sécurité · Fondateur **[CCDIGITAL](https://ccdigital.fr)** · Lyon, France  
 NIS2 · ISO 27001 · IEC 62443 · EBIOS RM · ANSSI · Architectures SOC · OT/IoT · MSSP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/johannlebel)
