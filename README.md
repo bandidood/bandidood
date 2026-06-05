@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=220&section=header&text=Johann%20Lebel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20OT%2FIoT%20%7C%20Cloud%20%7C%20SOC%20Architecture&descAlignY=56&descSize=17&descColor=ffffffcc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=220&section=header&text=Johann%20Lebel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CP%20Cybersecurity%20OT%2FIT%20%7C%20AI%20Consultant&descAlignY=56&descSize=17&descColor=ffffffcc"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=bandidood&color=01696f&style=flat-square&label=profile+views)
 
