@@ -58,14 +58,7 @@ NIS2 · ISO 27001 · IEC 62443 · EBIOS RM · ANSSI · Architectures SOC · OT/I
 
 ---
 
-## 📂 Projets notables
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[ccdigital-agent](https://github.com/bandidood/ccdigital-agent)** | Super-agent infrastructure CCDigital | Claude Code SDK · MCP · Telegram |
-| **[cloud-audit-kit](https://github.com/bandidood/cloud-audit-kit)** | Kit d'audit cloud 101 points | Python · HTML · XLSX |
-| **[grc-tooling](https://github.com/bandidood/grc-tooling)** | Outillage GRC / conformité | CISO Assistant · ISO 27001 |
-| **[ot-security-lab](https://github.com/bandidood/ot-security-lab)** | Lab sécurité IoT/OT (NIS2 · IEC 62443) | Python · Proxmox |
 
 ---
 
