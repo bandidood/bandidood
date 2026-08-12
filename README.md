@@ -48,12 +48,12 @@ NIS2 · ISO 27001 · IEC 62443 · EBIOS RM · ANSSI · Architectures SOC · OT/I
 ## 🧠 Focus actuels
 
 ```text
-🔐  Architectures Zero Trust & SOC managé pour PME / ETI
+🔐  GRC automatiser et piloter par IA
 🏭  Sécurité OT/ICS — convergence IT/OT, IEC 62443 SL2+
 ☁️  Cloud-native infra Hetzner + Coolify + supervision Wazuh
 🤖  Super-agent IA : Claude Code SDK ↔ Coolify MCP ↔ Telegram
 📋  Conformité NIS2 / ISO 27001 — GRC outillé (CISO Assistant)
-🎓  Enseignement BTS GPME & Tle STMG — ECEMA Lyon
+🎓  Enseignement Master 1/2  ESIS et CPIA — ESIC Paris - Le Bahut Lyon
 ```
 
 ---
